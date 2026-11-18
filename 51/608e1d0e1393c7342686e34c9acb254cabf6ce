@@ -1,0 +1,73 @@
+extensions/flowsery/.gitignore
+  s_82f1560ed1eab1::t_9d7a813aa97c62 1-8
+extensions/flowsery/.prettierrc
+  s_82f1560ed1eab1::t_880df1038a07a5 1-4
+extensions/flowsery/CHANGELOG.md
+  s_82f1560ed1eab1::t_d08c8b8a3e67ec 1-3
+extensions/flowsery/README.md
+  s_82f1560ed1eab1::t_27994aa6ab3f5b 1-18
+extensions/flowsery/eslint.config.js
+  s_82f1560ed1eab1::t_793af7d345387e 1-4
+extensions/flowsery/package-lock.json
+  s_090e595bff8e94::t_2a23106858dd0d 1-3720
+extensions/flowsery/package.json
+  s_82f1560ed1eab1::t_b06dd7717e91dd 1-64
+extensions/flowsery/src/components/website-analytics.tsx
+  s_503a074ff52fa7::t_d558670627519f 1-151
+extensions/flowsery/src/lib/api.ts
+  s_82f1560ed1eab1::t_c32bcd0bfd3a85 1-7
+extensions/flowsery/src/lib/client.ts
+  s_82f1560ed1eab1::t_d536fb7e3d7937 1-46
+extensions/flowsery/src/lib/feedback.ts
+  s_82f1560ed1eab1::t_ea55745f3ba4ae 1-42
+extensions/flowsery/src/lib/format.ts
+  s_82f1560ed1eab1::t_d56bb6f521ef81 1-112
+extensions/flowsery/src/lib/http.ts
+  s_503a074ff52fa7::t_faa87e5e37f62f 1-84
+extensions/flowsery/src/lib/report.ts
+  s_82f1560ed1eab1::t_20d6719df7a13c 1-49
+extensions/flowsery/src/lib/types.ts
+  s_82f1560ed1eab1::t_62720582d36dd2 1-70
+extensions/flowsery/src/lib/use-websites.ts
+  s_82f1560ed1eab1::t_9c9a335dbcf032 1-15
+extensions/flowsery/src/live-visitors.tsx
+  s_82f1560ed1eab1::t_c72c5b7bded8ae 1-49
+extensions/flowsery/src/search-issues.tsx
+  s_503a074ff52fa7::t_c69f596f4d2a8b 1-186
+extensions/flowsery/src/view-analytics.tsx
+  s_503a074ff52fa7::t_ea51a55e492066 1-61
+extensions/flowsery/tsconfig.json
+  s_82f1560ed1eab1::t_fb72f1ff67ff16 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "51608e1d0e1393c7342686e34c9acb254cabf6ce",
+  "prompts": {},
+  "sessions": {
+    "s_090e595bff8e94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "054a1bee-e925-48f1-aabb-c88c834a8d54",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    },
+    "s_503a074ff52fa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ccc558f7-ac40-497a-a316-9abb6e2d85f8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    },
+    "s_82f1560ed1eab1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bfa6ead2-d55a-4d15-8158-92f95260dbf3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
