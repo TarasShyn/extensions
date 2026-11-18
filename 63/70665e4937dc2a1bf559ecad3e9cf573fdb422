@@ -1,0 +1,37 @@
+extensions/redreplier/package.json
+  s_503a074ff52fa7::t_f44ce4ba3d0fe4 5,8-11,13-15
+extensions/redreplier/src/components/add-keywords-form.tsx
+  s_82f1560ed1eab1::t_7322dc9997b7d5 66
+extensions/redreplier/src/components/load-error-view.tsx
+  s_82f1560ed1eab1::t_3db67c71768068 1-23
+extensions/redreplier/src/lib/use-websites.ts
+  s_82f1560ed1eab1::t_6a11ca99c19089 11
+extensions/redreplier/src/search-mentions.tsx
+  s_503a074ff52fa7::t_a0cc37b416edc9 2,4,6,80-86,95,109,136-162,168-170,180-188,217-219,232
+extensions/redreplier/src/search-websites.tsx
+  s_503a074ff52fa7::t_4f9ae9e2eb12ad 3,25,53-61,72-84,98,102-115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6370665e4937dc2a1bf559ecad3e9cf573fdb422",
+  "prompts": {},
+  "sessions": {
+    "s_503a074ff52fa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ccc558f7-ac40-497a-a316-9abb6e2d85f8",
+        "model": "unknown"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    },
+    "s_82f1560ed1eab1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bfa6ead2-d55a-4d15-8158-92f95260dbf3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
