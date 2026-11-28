@@ -1,0 +1,53 @@
+extensions/adaptlypost/.review/needs-review-by-session/bfa6ead2-d55a-4d15-8158-92f95260dbf3
+  s_849ea72b40b612::t_0db6a2c9224322 1
+extensions/adaptlypost/README.md
+  s_230fed4f65fb03::t_3a911992b340e5 18
+extensions/adaptlypost/package.json
+  s_230fed4f65fb03::t_a8590ffee4f0cc 41-47
+extensions/adaptlypost/src/components/load-error-view.tsx
+  s_d714580466a6d6::t_84100d820dde9f 2,10-22,28,31
+extensions/adaptlypost/src/components/post-list.tsx
+  s_230fed4f65fb03::t_bdf10d99a42464 1-265
+extensions/adaptlypost/src/lib/feedback.ts
+  s_d714580466a6d6::t_8f9c6c905e7be7 2,14
+extensions/adaptlypost/src/lib/format.ts
+  s_230fed4f65fb03::t_af9b6e497077a1 74-75
+extensions/adaptlypost/src/lib/http.ts
+  s_d714580466a6d6::t_12ea0a61117c02 35-36
+extensions/adaptlypost/src/search-drafts.tsx
+  s_230fed4f65fb03::t_7a23f1fc4e2a70 1-5
+extensions/adaptlypost/src/search-posts.tsx
+  s_230fed4f65fb03::t_1e771d6c064954 1,4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "749cf933fa18eaff216c45554fe0bbefd95b63a1",
+  "prompts": {},
+  "sessions": {
+    "s_230fed4f65fb03": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14122d13-e176-4544-91c0-aecab77e8b7b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    },
+    "s_849ea72b40b612": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2bf83237-1b9a-4dbf-a9fc-1ee9f011bef5",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    },
+    "s_d714580466a6d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d0424582-efb2-49e4-8c2b-2136da415c43",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
