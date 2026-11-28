@@ -1,0 +1,43 @@
+extensions/flowsery/README.md
+  s_82f1560ed1eab1::t_b51c12ae361406 18
+extensions/flowsery/package.json
+  s_82f1560ed1eab1::t_51b7fd5b8e6a0b 5,8-11,13-15
+extensions/flowsery/src/components/load-error-view.tsx
+  s_82f1560ed1eab1::t_b7d351dcfd22c5 1-23
+extensions/flowsery/src/components/website-analytics.tsx
+  s_503a074ff52fa7::t_d12deae799dbeb 17,71-76,79,83,90,100
+extensions/flowsery/src/lib/report.ts
+  s_503a074ff52fa7::t_9f04d8f0ebf1d3 16-21,47,51,53-55,57
+extensions/flowsery/src/lib/use-websites.ts
+  s_503a074ff52fa7::t_85bbd635135983 12
+extensions/flowsery/src/live-visitors.tsx
+  s_82f1560ed1eab1::t_11aba29a878858 2,5,9-24,27-35,40,44-61,64
+extensions/flowsery/src/search-issues.tsx
+  s_82f1560ed1eab1::t_4f09f20d4d6eec 4,6,76-81,86,104,112,117-119,123,139-157,159
+extensions/flowsery/src/view-analytics.tsx
+  s_82f1560ed1eab1::t_3b56945fe2bff3 3,16,27-40,42,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7aafe360770908466b087a867dbdacc3242e5c5d",
+  "prompts": {},
+  "sessions": {
+    "s_503a074ff52fa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ccc558f7-ac40-497a-a316-9abb6e2d85f8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    },
+    "s_82f1560ed1eab1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bfa6ead2-d55a-4d15-8158-92f95260dbf3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}

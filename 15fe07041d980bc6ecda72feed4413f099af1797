@@ -1,0 +1,19 @@
+extensions/redreplier/src/components/add-keywords-form.tsx
+  s_82f1560ed1eab1::t_84ad011455050d 1,30-32,63-71,73-80,84-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "15fe07041d980bc6ecda72feed4413f099af1797",
+  "prompts": {},
+  "sessions": {
+    "s_82f1560ed1eab1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bfa6ead2-d55a-4d15-8158-92f95260dbf3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
